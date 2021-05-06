@@ -1,7 +1,0 @@
-hello
-
-this is the new file for hard reset demo 
-
-
-
-addling line 1 for modifying the content of file
