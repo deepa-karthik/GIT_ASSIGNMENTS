@@ -1,3 +1,5 @@
 hello
 
-a new file for another attempt of hard reset
+a new file for another attempt of hard reset 
+
+adding new line 1 for hard reset
