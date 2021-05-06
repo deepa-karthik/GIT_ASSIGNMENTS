@@ -1,2 +1,4 @@
 hello
-this is file number 1 for exercise 5 (stashing)
+this is file number 1 for exercise 5 (stashing) 
+
+demo line for stashing by pop
