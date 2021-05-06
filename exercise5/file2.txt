@@ -1,0 +1,2 @@
+hello 
+this is file number 2 for exercise5(stashing)
