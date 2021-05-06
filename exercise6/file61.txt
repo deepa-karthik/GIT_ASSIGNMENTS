@@ -1,0 +1,3 @@
+hello
+
+this is the first file for exercise 6-- on soft reset
