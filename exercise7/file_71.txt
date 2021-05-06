@@ -1,0 +1,3 @@
+hello
+
+file_71.txt created to show hard reset 
